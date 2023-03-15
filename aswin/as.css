@@ -1,0 +1,140 @@
+
+.as2{
+    display: flex;
+    flex-direction: column;
+    object-fit: fill ;
+    object-position: center;
+    height: 75vh; 
+    overflow: hidden ;
+    background-image: url(./img.webp);
+    margin-right:-2mm;
+
+}
+.lol{
+	margin-top: 2mm;
+	padding-bottom: 10mm;
+	color: white;
+	font-size: 20px;
+    padding-left: 200px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(19,19,201,1) 0%, rgba(0,212,255,1) 27%);
+}
+.as4{
+    color:white;
+    padding-top: 100px;
+    padding-left: 40px;
+}
+
+
+.title h2{
+	color: white;
+	font-size: 75px;
+	width: 1130px;
+	margin: 30px auto;
+	text-align: center;
+}
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 400px;
+}
+.card{
+	height: 365px;
+	width: 335px;
+	padding: 20px 35px;
+	background: #191919;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.card i{
+	font-size: 50px;
+	display: block;
+	text-align: center;
+	margin: 25px 0px;
+	color: #f9004d;
+
+}
+.caard{
+    background-image: url(aswin2.jpg);
+}
+h5{
+	color: rgb(0, 0, 0);
+	font-size: 23px;
+}
+
+.card .button{
+	background-color:#f9004d;
+	color: white;
+	text-decoration: none;
+	border: 2px solid transparent;
+	font-weight: bold;
+	padding: 9px 22px;
+	border-radius: 30px;
+	transition: .4s; 
+}
+.card .button:hover{
+	background-color: transparent;
+	border: 2px solid #f9004d;
+	cursor: pointer;
+}
+
+#as3{
+	color: #191919;
+    background: rgb(255, 252, 252);
+}
+#ac{
+	color: white;
+}
+.at{
+	display: flex;
+	justify-content: left;
+	text-decoration: none;
+	color: white;
+}
+.sub-con-4{
+    background-color: black;
+    margin-right: -2mm;
+    margin-left: -2mm;
+    margin-top: -2mm;
+    padding-bottom: 8mm;
+}
+
+.picture-1{
+    display: flex;
+    justify-content: center;
+}
+.picture-1{
+    font-size: small;
+    position: relative;
+    top:1mm;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+	padding-right: -5mm;
+	margin: auto;
+	padding: auto;
+}
+.foot1{
+    color: azure;
+	text-decoration: none;
+    font-family: 'Lato',sans-serif;
+}
+.color-foot{
+    color: aliceblue;
+    font-family: 'Lato',sans-serif;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+}
+#ar{
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	bottom: -3.5mm;
+	left: -12mm;
+}
